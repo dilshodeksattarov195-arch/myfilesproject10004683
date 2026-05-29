@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartvync",
+        "uuid": 800793,
+        "checksum": "iy31si"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
